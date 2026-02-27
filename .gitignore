@@ -1,0 +1,7 @@
+LatencyMonitor_bin
+*.o
+.DS_Store
+*.app
+LatencyMonitor_new
+LatencyMonitor
+fix_icon_cache.sh
